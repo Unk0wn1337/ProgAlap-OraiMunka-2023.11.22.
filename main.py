@@ -17,3 +17,4 @@ import lista
 #primszam.primKetto(3)
 #primszam.primKetto(4)
 lista.veletlen()
+lista.listaKiirKetto()
